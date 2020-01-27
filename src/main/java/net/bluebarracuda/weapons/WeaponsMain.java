@@ -25,18 +25,8 @@ public class WeaponsMain
                 () -> SideProxy.Client::new,
                 () -> SideProxy.Server::new);
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
-        modEventBus.addListener(this::setupClient);
-        modEventBus.addListener(this::setupCommon);
-
-        public void setupClient(FMLClientSetupEvent event)
-        {
-            //DistExecutor.runWhenOn(Dist.CLIENT, () -> WeaponsMain::registerParticleFactories);
-            //DistExecutor.runWhenOn(Dist.CLIENT, () -> WeaponsMain::registerEntityRenderers);
-            //DistExecutor.runWhenOn(Dist.CLIENT, () -> WeaponsMain::registerTileEntityRenderers);
-            //LOGGER.debug("Common setup - Renderers");
-            //DistExecutor.runWhenOn(Dist.CLIENT, () -> WeaponsMain::registerFilters);
-        }
-    }
+       // modEventBus.addListener(this::setupClient);
+       // modEventBus.addListener(this::setupCommon);
     }
 
 }
