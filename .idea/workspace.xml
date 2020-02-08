@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75300e25-3ab6-463a-92a5-aac99ea94c57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/bluebarracuda/weapons/WeaponsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/bluebarracuda/weapons/WeaponsMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="5a970358-e46c-4328-a05d-c8f25bae42ab" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +24,16 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="FishyBoiWeapons" type="f1a62948:ProjectNode" />
+                <item name="blue'sweaponsmod" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="FishyBoiWeapons" type="f1a62948:ProjectNode" />
+                <item name="blue'sweaponsmod" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="FishyBoiWeapons" type="f1a62948:ProjectNode" />
+                <item name="blue'sweaponsmod" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="fg_runs" type="c8890929:TasksNode$1" />
               </path>
@@ -50,26 +47,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1WuynWIgF4iPSysZELaEvNWGwV5" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1XN4Wb0JLCyR3eFtGUswcqp8WAm" />
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="E:/GitHubRepos/BuildersIndustry/build.gradle" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
-    <property name="show.unlinked.gradle.project.popup" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,7 +73,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.runClient">
-    <configuration name="Weapons Mod [genIntellijRuns]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="blue'sweaponsmod [genIntellijRuns]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -107,11 +96,11 @@
       <item itemvalue="Application.runClient" />
       <item itemvalue="Application.runData" />
       <item itemvalue="Application.runServer" />
-      <item itemvalue="Gradle.Weapons Mod [genIntellijRuns]" />
+      <item itemvalue="Gradle.blue'sweaponsmod [genIntellijRuns]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Weapons Mod [genIntellijRuns]" />
+        <item itemvalue="Gradle.blue'sweaponsmod [genIntellijRuns]" />
       </list>
     </recent_temporary>
   </component>
@@ -120,28 +109,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75300e25-3ab6-463a-92a5-aac99ea94c57" name="Default Changelist" comment="" />
-      <created>1580013941611</created>
+      <changelist id="5a970358-e46c-4328-a05d-c8f25bae42ab" name="Default Changelist" comment="" />
+      <created>1580873250534</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580013941611</updated>
+      <updated>1580873250534</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

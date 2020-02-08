@@ -1,6 +1,5 @@
 package net.bluebarracuda.weapons;
 
-
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
@@ -8,8 +7,8 @@ import net.minecraftforge.fml.event.lifecycle.FMLDedicatedServerSetupEvent;
 import net.minecraftforge.fml.event.server.FMLServerStartingEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
-public class SideProxy {
-
+public class SideProxy
+{
     public SideProxy() {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(SideProxy::commonSetup);
 
@@ -34,6 +33,7 @@ public class SideProxy {
         }
 
         private static void clientSetup(FMLClientSetupEvent event) {
+
 
         }
     }
